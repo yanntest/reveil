@@ -1,0 +1,10 @@
+
+.plugin-gridster.reveil .front {
+  background: #B5E655 url('images/reveil.png') center 34px;
+  background-size:   82px 91px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.reveil .back {
+  background: #B5E655;
+}
