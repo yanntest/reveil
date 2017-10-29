@@ -1,2 +1,2 @@
 @echo off
-"C:\CLARA\reveil\musique\aleatoire.bat"
+"C:\SARAH\reveil\musique\aleatoire.bat"
