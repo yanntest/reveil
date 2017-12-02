@@ -14,23 +14,23 @@
   <item repeat="0-1">
   <one-of>
    <!--1 HEURE-->  
-	<item>a un heure									<tag>out.action.tempsreveil = '3600000';out.action.tempsreveilname = "un heure";</tag></item>
-	<item>a un heure cinq								<tag>out.action.tempsreveil = '3900000';out.action.tempsreveilname = "un heure cinq";</tag></item>
-	<item>a un heure dix								<tag>out.action.tempsreveil = '4200000';out.action.tempsreveilname = "un heure dix";</tag></item>
-	<item>a un heure quinze								<tag>out.action.tempsreveil = '4500000';out.action.tempsreveilname = "un heure quinze";</tag></item>
-	<item>a un heure et quart							<tag>out.action.tempsreveil = '4500000';out.action.tempsreveilname = "un heure et quart";</tag></item>
-	<item>a un heure vingt								<tag>out.action.tempsreveil = '4800000';out.action.tempsreveilname = "un heure vingt";</tag></item>
-	<item>a un heure vingt cinq							<tag>out.action.tempsreveil = '5100000';out.action.tempsreveilname = "un heure vingt cinq";</tag></item>
-	<item>a un heure et demi							<tag>out.action.tempsreveil = '5400000';out.action.tempsreveilname = "un heure et demi";</tag></item>
-	<item>a un heure trente								<tag>out.action.tempsreveil = '5400000';out.action.tempsreveilname = "un heure trente";</tag></item>
-	<item>a un heure trente cinq						<tag>out.action.tempsreveil = '5700000';out.action.tempsreveilname = "un heure trente cinq";</tag></item>
-	<item>a un heure quarante							<tag>out.action.tempsreveil = '6000000';out.action.tempsreveilname = "un heure quarante";</tag></item>
+	<item>a une heure									<tag>out.action.tempsreveil = '3600000';out.action.tempsreveilname = "une heure";</tag></item>
+	<item>a une heure cinq								<tag>out.action.tempsreveil = '3900000';out.action.tempsreveilname = "une heure cinq";</tag></item>
+	<item>a une heure dix								<tag>out.action.tempsreveil = '4200000';out.action.tempsreveilname = "une heure dix";</tag></item>
+	<item>a une heure quinze							<tag>out.action.tempsreveil = '4500000';out.action.tempsreveilname = "une heure quinze";</tag></item>
+	<item>a une heure et quart							<tag>out.action.tempsreveil = '4500000';out.action.tempsreveilname = "une heure et quart";</tag></item>
+	<item>a une heure vingt								<tag>out.action.tempsreveil = '4800000';out.action.tempsreveilname = "une heure vingt";</tag></item>
+	<item>a une heure vingt cinq						<tag>out.action.tempsreveil = '5100000';out.action.tempsreveilname = "une heure vingt cinq";</tag></item>
+	<item>a une heure et demi							<tag>out.action.tempsreveil = '5400000';out.action.tempsreveilname = "une heure et demi";</tag></item>
+	<item>a une heure trente							<tag>out.action.tempsreveil = '5400000';out.action.tempsreveilname = "une heure trente";</tag></item>
+	<item>a une heure trente cinq						<tag>out.action.tempsreveil = '5700000';out.action.tempsreveilname = "une heure trente cinq";</tag></item>
+	<item>a une heure quarante							<tag>out.action.tempsreveil = '6000000';out.action.tempsreveilname = "une heure quarante";</tag></item>
 	<item>a deux heure moins vingt						<tag>out.action.tempsreveil = '6000000';out.action.tempsreveilname = "deux heure moins vingt";</tag></item>
-	<item>a un heure quarante cinq						<tag>out.action.tempsreveil = '6300000';out.action.tempsreveilname = "un heure quarante cinq";</tag></item>
+	<item>a une heure quarante cinq						<tag>out.action.tempsreveil = '6300000';out.action.tempsreveilname = "une heure quarante cinq";</tag></item>
 	<item>a deux heure moins le quart					<tag>out.action.tempsreveil = '6300000';out.action.tempsreveilname = "deux heure moins le quart";</tag></item>
-	<item>a un heure cinquante							<tag>out.action.tempsreveil = '6600000';out.action.tempsreveilname = "un heure cinquante";</tag></item>
+	<item>a une heure cinquante							<tag>out.action.tempsreveil = '6600000';out.action.tempsreveilname = "une heure cinquante";</tag></item>
 	<item>a deux heure moins dix						<tag>out.action.tempsreveil = '6600000';out.action.tempsreveilname = "deux heure moins dix";</tag></item>
-	<item>a un heure cinquante cinq						<tag>out.action.tempsreveil = '6900000';out.action.tempsreveilname = "un heure cinquante cinq";</tag></item>
+	<item>a une heure cinquante cinq					<tag>out.action.tempsreveil = '6900000';out.action.tempsreveilname = "une heure cinquante cinq";</tag></item>
 <!--2 HEURE-->   
 	<item>a deux heure									<tag>out.action.tempsreveil = '7200000';out.action.tempsreveilname = "deux heure";</tag></item>
 	<item>a deux heure cinq								<tag>out.action.tempsreveil = '7500000';out.action.tempsreveilname = "deux heure cinq";</tag></item>

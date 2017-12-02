@@ -74,7 +74,7 @@ console.log(tempsfinale)
 //on reset le timeout
 clearTimeout(function() {var child = exec(process,
   function (error, stdout, stderr) {
-    console.log(process),callback({'tts':" D'accord je vous réveille a " + tempsname+"; "});
+    console.log(process),callback({'tts':" D'accord je vous réveillerai a " + tempsname+"; "});
    });
 }, tempsfinal);
 // on fait appel à la fonction minuteur
@@ -86,10 +86,10 @@ var process = '%CD%/plugins/reveil/bin/reveilmp3.bat';
 
 setTimeout(function() {var child = exec(process,
   function (error, stdout, stderr) {
-    console.log(process),callback({'tts':" D'accord je vous réveille a " + tempsname+"; "});
+    console.log(process),callback({'tts':" D'accord je vous réveillerai a " + tempsname+"; "});
    });
 }, tempsfinal);
 
-callback({'tts':" D'accord je vous reveille a " + tempsname+" "}); 
+callback({'tts':" D'accord je vous reveillerai a " + tempsname+" "}); 
 };
 

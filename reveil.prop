@@ -2,7 +2,7 @@
   "modules" : { 
     "reveil"  : {
       "description": "Permet de se reveiller",
-      "version"    : "1"
+      "version"    : "1.0"
     }
   }
 }
